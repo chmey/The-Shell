@@ -1,7 +1,7 @@
 {
-    "name": "the-shell",
+    "name": "chmey-shell",
     "description": "Theme for Ghost which use 'Ghost in The Shell' animation series palette colors",
-    "demo": "https://ghostintheshell.ghost.io",
+    "demo": "https://chmey.com",
     "version": "3.0.0",
     "engines": {
         "ghost": ">=3.0.0",
@@ -35,7 +35,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mityalebedev/The-Shell.git"
+        "url": "https://github.com/chmey/The-Shell.git"
     },
     "bugs": "https://github.com/mityalebedev/The-Shell/issues",
     "contributors": "https://github.com/mityalebedev/The-Shell/graphs/contributors",
